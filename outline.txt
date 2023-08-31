@@ -15,4 +15,4 @@ industry's standard dummy text ever since the 1500s, when an unknown printer too
 
   ting, remaining essentially unchanged. It was popularised in the 1960s 
   with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop 
-  fffpublishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  fffpublishing software like 
